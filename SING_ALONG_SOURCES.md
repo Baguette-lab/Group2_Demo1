@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sing-along source choices
 
 Checked November 4, 2026. Official videos with visible lyrics are preferred. Where none was verified, the highest-view suitable lyric upload among checked search candidates was chosen. Indexed view counts may lag and do not prove an absolute YouTube-wide maximum. No source requires an Apple Music subscription.
@@ -44,3 +45,23 @@ Checked November 4, 2026. Official videos with visible lyrics are preferred. Whe
 Embedded videos use youtube-nocookie.com. Each has a direct YouTube fallback. Publisher, country, age, network, and embedding restrictions may still affect availability. The selected-lines text stage contains only passages supplied by the group; this package does not copy full lyrics from third-party pages.
 
 True Love Waits was added November 9, 2026, using the group’s uploaded recording and selected passage. Its published video is a fan lyric upload; no official on-screen lyric source was verified. The native story cut plays the selected words locally, with the original vocal.
+=======
+# Published sing-alongs
+
+Reviewed November 9, 2026. Official and fan classifications are displayed in the website. No view-count ranking is claimed.
+
+| Song | Published source | Classification |
+| --- | --- | --- |
+| Cornelia Street | [Fan lyric video · Lyrics by Madison](https://www.youtube.com/watch?v=I7CcVgw4_KE) | Fan upload |
+| Vines | [Official performance · TOWERofDOOM](https://www.youtube.com/watch?v=oF2AdW0XPeE) | Official/authorized |
+| Hit the Wall | [Official lyric video · Gracie Abrams](https://www.youtube.com/watch?v=uDx8cNqXmZE) | Official/authorized |
+| Unti-Unti | [Official lyric visuals · Viva Records](https://www.youtube.com/watch?v=vw4MWvpJsqI) | Official/authorized |
+| True Love Waits | [Fan lyric video · Lyrics and Stuff](https://www.youtube.com/watch?v=Ms4bKqfrJ4w) | Fan upload |
+| Don’t Think Twice, It’s All Right | [Fan lyric video · S. B. G. P.](https://www.youtube.com/watch?v=fTVwGNqbBYg) | Fan upload |
+| The Apartment We Won’t Share | [Official lyric video · NIKI](https://www.youtube.com/watch?v=GNQphbGu5xM) | Official/authorized |
+| Paths | [Official lyric video · NIKI](https://www.youtube.com/watch?v=aarvhv5ZHzQ) | Official/authorized |
+
+Vines is an authorized live performance with lyrics in the YouTube description; on-screen lyrics were not verified. The group’s native Vines passage is displayed and timed locally. Unti-Unti’s Viva video identifies the 2019 album edition; its first single release was 2017. Radiohead’s supplied recording is the 2016 studio True Love Waits. Video and MP3 editions may differ.
+
+Embedded playback uses youtube-nocookie.com and provides a direct YouTube link. The native story stage preserves the group-supplied selected lines and original-vocal recording. No additional full lyrics were copied from third-party websites.
+>>>>>>> 0781108 (second commit)

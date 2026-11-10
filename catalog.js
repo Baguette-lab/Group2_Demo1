@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // Our group’s growing playlist. Audio runtimes match the supplied recordings.
+=======
+// Final eight songs, supplied recordings, and checked source metadata.
+>>>>>>> 0781108 (second commit)
 window.HOME_CATALOG = {
   "title": "Sa Iisang Bubong",
   "subtitle": "Coming together. Living together. The freedom to begin again.",
@@ -8,7 +12,10 @@ window.HOME_CATALOG = {
       "stage": "The shared home",
       "tagalog": "Tahanan",
       "label": "A place that becomes ours",
+<<<<<<< HEAD
       "chapter": "01",
+=======
+>>>>>>> 0781108 (second commit)
       "side": "A",
       "color": "#d39a65",
       "roomState": 1,
@@ -17,23 +24,41 @@ window.HOME_CATALOG = {
       "object": "Two cups",
       "question": "Why begin with a home instead of a goodbye?",
       "answer": "A shared home gives the later loss its meaning. Partnership organizes ordinary life long before a census records a change in status.",
+<<<<<<< HEAD
       "bridge": "The remembered home gives us something to care about. Vines asks what it takes to keep that shared space emotionally livable.",
+=======
+      "bridge": "A shared home gives their hopes a place. Vines asks how they can care for it when small tensions begin to spread.",
+>>>>>>> 0781108 (second commit)
       "lyrics": "You hold my hand on the street\nWalk me back to that apartment\nYears ago, we were just inside\nBarefoot in the kitchen",
       "groupNote": "Reminiscing about their moments together as a couple, the streets they walked together, and the apartment they shared, as the person fears the end of their relationship.",
       "addedBy": "Therese",
       "video": "I7CcVgw4_KE",
       "videoKind": "lyrics",
       "videoLabel": "Fan lyric video · Lyrics by Madison",
+<<<<<<< HEAD
       "file": "cornelia-street.mp3",
       "lyricFile": "cornelia-street.lrc",
       "lyricsLink": "https://www.youtube.com/watch?v=I7CcVgw4_KE",
+=======
+      "videoOfficial": false,
+      "file": "cornelia-street.mp3",
+      "lyricFile": "cornelia-street.lrc",
+      "lyricsLink": "https://www.youtube.com/watch?v=I7CcVgw4_KE",
+      "chapter": "01",
+>>>>>>> 0781108 (second commit)
       "id": "cornelia-street",
       "title": "Cornelia Street",
       "artist": "Taylor Swift",
       "year": 2019,
+<<<<<<< HEAD
       "duration": 288,
       "album": "Lover",
       "link": "https://music.apple.com/us/song/1468058184",
+=======
+      "duration": 288.287347,
+      "album": "Lover",
+      "link": "https://www.youtube.com/watch?v=VikHHWrgb4Y",
+>>>>>>> 0781108 (second commit)
       "originalVideo": "VikHHWrgb4Y",
       "originalVideoLabel": "Official audio · Taylor Swift",
       "concept": "Union formation · shared living arrangements",
@@ -44,16 +69,25 @@ window.HOME_CATALOG = {
       "citation": "Swift, T. (2019). Cornelia Street [Song]. On Lover. Republic Records.",
       "excerpt": true,
       "recordingNote": "Runtime measured from the group’s uploaded MP3; music-video versions may include an intro or outro.",
+<<<<<<< HEAD
       "videoOfficial": false,
       "videoChecked": "2026-11-04",
       "videoViews": 15530833,
       "videoSelection": "No suitable official lyric video was verified. This is the most-viewed suitable lyric upload among the search candidates checked; search results do not establish an exhaustive YouTube ranking."
+=======
+      "videoChecked": "2026-11-09",
+      "videoSelection": "Published sing-along source; official or fan classification is shown beside the player.",
+      "videoCitation": "Lyrics by Madison. (n.d.). Cornelia Street (Lyric video) [Video]. YouTube."
+>>>>>>> 0781108 (second commit)
     },
     {
       "stage": "The cracks",
       "tagalog": "Lamat",
       "label": "The things left unsaid",
+<<<<<<< HEAD
       "chapter": "02",
+=======
+>>>>>>> 0781108 (second commit)
       "side": "A",
       "color": "#788e78",
       "roomState": 2,
@@ -62,22 +96,39 @@ window.HOME_CATALOG = {
       "object": "The vines",
       "question": "Does conflict always mean a relationship has to end?",
       "answer": "No. This chapter leaves room for apology and repair. Conflict becomes part of the story without deciding its ending.",
+<<<<<<< HEAD
       "bridge": "The possibility of repair does not remove every contradiction. Hallelujah holds devotion and disappointment in the same room.",
+=======
+      "bridge": "They try apology and fairer care. Hit the Wall asks what happens when practical repair reaches a personal limit.",
+>>>>>>> 0781108 (second commit)
       "lyrics": "The more we'll let it grow\nBut I won't let it take over our homе\nSo I'll start: I'm sorry\nYou don't have to say it back",
       "groupNote": "The beginning of how little problems, when left unresolved, can eventually make your “safe space” (the home) feel unsafe.",
       "addedBy": "Aevi",
       "video": "oF2AdW0XPeE",
       "videoKind": "performance",
       "videoLabel": "Official performance · TOWERofDOOM",
+<<<<<<< HEAD
       "file": "02-vines.mp3",
       "lyricFile": "02-vines.lrc",
       "lyricsLink": "https://www.youtube.com/watch?v=oF2AdW0XPeE",
+=======
+      "videoOfficial": true,
+      "file": "02-vines.mp3",
+      "lyricFile": "02-vines.lrc",
+      "lyricsLink": "https://www.youtube.com/watch?v=oF2AdW0XPeE",
+      "chapter": "02",
+>>>>>>> 0781108 (second commit)
       "id": "vines",
       "title": "Vines",
       "artist": "The Ridleys",
       "year": 2024,
+<<<<<<< HEAD
       "duration": 197,
       "link": "https://music.apple.com/us/song/1838832328",
+=======
+      "duration": 196.858776,
+      "link": "https://www.youtube.com/watch?v=oF2AdW0XPeE",
+>>>>>>> 0781108 (second commit)
       "album": "All These and More",
       "concept": "Household well-being · relationship quality",
       "issue": "Tension within a shared home",
@@ -85,6 +136,7 @@ window.HOME_CATALOG = {
       "interpretation": "The vine metaphor suggests small tensions spreading through a shared home. We interpret this as a problem of household well-being: living together does not automatically mean feeling secure or supported. Relationship quality can influence whether a union continues, although conflict alone does not establish that separation will follow. Following Cornelia Street, the song shows the work of maintaining a partnership and the vulnerability of a home whose emotional foundation is becoming strained.",
       "cue": "Notice how small problems begin to occupy the home.",
       "excerpt": true,
+<<<<<<< HEAD
       "citation": "The Ridleys. (2024). Vines [Song]. On All these and more. The Ridleys / Underdog Music PH.",
       "recordingNote": "Runtime measured from the group’s uploaded MP3; music-video versions may include an intro or outro.",
       "videoOfficial": true,
@@ -181,12 +233,24 @@ window.HOME_CATALOG = {
       "videoChecked": "2026-11-04",
       "videoViews": 13032,
       "videoSelection": "No suitable official lyric video was verified. This was the only confirmed English on-screen lyric upload located in the search; a highest-view ranking could not be established."
+=======
+      "citation": "The Ridleys. (2024). Vines [Song]. On All these and more. The Ridleys; Underdog Music PH.",
+      "recordingNote": "Runtime measured from the group’s uploaded MP3; music-video versions may include an intro or outro.",
+      "videoChecked": "2026-11-09",
+      "videoSelection": "Published sing-along source; official or fan classification is shown beside the player.",
+      "textLyricsLink": "https://lyricsweb.com/song/the-ridleys/the-ridleys-vines",
+      "versionNote": "Vines uses a live performance. Its complete lyrics are in the YouTube description and the public text link below; on-screen lyrics are not verified.",
+      "videoCitation": "TOWERofDOOM. (n.d.). Vines (Tower Sessions performance) [Video]. YouTube."
+>>>>>>> 0781108 (second commit)
     },
     {
       "stage": "The breaking point",
       "tagalog": "Hangganan",
       "label": "Love has its limits",
+<<<<<<< HEAD
       "chapter": "05",
+=======
+>>>>>>> 0781108 (second commit)
       "side": "A",
       "color": "#b56f5e",
       "roomState": 3,
@@ -195,22 +259,39 @@ window.HOME_CATALOG = {
       "object": "A crack in the wall",
       "question": "Can love and an unsustainable relationship exist at the same time?",
       "answer": "Yes. The song invites us to distinguish affection from the capacity to sustain a healthy shared life.",
+<<<<<<< HEAD
       "bridge": "Once those limits become visible, closeness can begin to fade. Unti-Unti lets us hear that gradual emotional distance.",
+=======
+      "bridge": "Recognizing a limit does not end attachment. Unti-Unti gives their growing emotional distance its gradual pace.",
+>>>>>>> 0781108 (second commit)
       "lyrics": "Hit the wall, I just hit the wall\nI'm not a problem you can solve\nWeighing the cost, impossible\nI hit the wall, I hit the wall",
       "groupNote": "Talks about self-sabotaging in relationships and realizing that another person’s love won’t fix your internal problems.",
       "addedBy": "Aevi",
       "video": "uDx8cNqXmZE",
       "videoKind": "lyrics",
       "videoLabel": "Official lyric video · Gracie Abrams",
+<<<<<<< HEAD
       "file": "03-hit-the-wall.mp3",
       "lyricFile": "03-hit-the-wall.lrc",
       "lyricsLink": "https://www.youtube.com/watch?v=uDx8cNqXmZE",
+=======
+      "videoOfficial": true,
+      "file": "03-hit-the-wall.mp3",
+      "lyricFile": "03-hit-the-wall.lrc",
+      "lyricsLink": "https://www.youtube.com/watch?v=uDx8cNqXmZE",
+      "chapter": "03",
+>>>>>>> 0781108 (second commit)
       "id": "hit-the-wall",
       "title": "Hit the Wall",
       "artist": "Gracie Abrams",
       "year": 2026,
+<<<<<<< HEAD
       "duration": 197,
       "link": "https://music.apple.com/us/song/6766750846",
+=======
+      "duration": 196.519184,
+      "link": "https://shop.gracieabrams.com/collections/daughterfromhell/products/daughter-from-hell-digital-album",
+>>>>>>> 0781108 (second commit)
       "album": "Daughter from Hell",
       "concept": "Union stability · individual well-being",
       "issue": "Limits of sustaining a partnership",
@@ -220,16 +301,25 @@ window.HOME_CATALOG = {
       "excerpt": true,
       "citation": "Abrams, G. (2026). Hit the wall [Song]. On Daughter from hell. Interscope Records.",
       "recordingNote": "Runtime measured from the group’s uploaded MP3; music-video versions may include an intro or outro.",
+<<<<<<< HEAD
       "videoOfficial": true,
       "videoChecked": "2026-11-04",
       "videoViews": 231673,
       "videoSelection": "An official video with on-screen lyrics was found and chosen before fan uploads."
+=======
+      "videoChecked": "2026-11-09",
+      "videoSelection": "Published sing-along source; official or fan classification is shown beside the player.",
+      "videoCitation": "Gracie Abrams. (n.d.). Hit the Wall (Official lyric video) [Video]. YouTube."
+>>>>>>> 0781108 (second commit)
     },
     {
       "stage": "The distance",
       "tagalog": "Paglayo",
       "label": "Together, but distant",
+<<<<<<< HEAD
       "chapter": "06",
+=======
+>>>>>>> 0781108 (second commit)
       "side": "A",
       "color": "#77869c",
       "roomState": 4,
@@ -238,42 +328,73 @@ window.HOME_CATALOG = {
       "object": "The empty chair",
       "question": "Can a household look intact while a partnership is already changing?",
       "answer": "Yes. An address and a marital-status category cannot fully describe the emotional experience inside a home.",
+<<<<<<< HEAD
       "bridge": "As closeness fades, True Love Waits voices the fear of losing a partner and the sacrifices someone might offer to keep a shared future.",
+=======
+      "bridge": "Their plans diverge while they still share an address. True Love Waits gives the wish to keep the relationship a voice.",
+>>>>>>> 0781108 (second commit)
       "lyrics": "Unti-unting nawawala\nAng 'yong mga salita\nDahan-dahang naglalaho\nAng lahat ng pangako",
       "groupNote": "Showing how affection and closeness can change during a relationship.",
       "addedBy": "Tricia",
       "video": "vw4MWvpJsqI",
       "videoKind": "lyrics",
       "videoLabel": "Official lyric visuals · Viva Records",
+<<<<<<< HEAD
       "file": "04-unti-unti.mp3",
       "lyricFile": "04-unti-unti.lrc",
       "lyricsLink": "https://www.youtube.com/watch?v=vw4MWvpJsqI",
+=======
+      "videoOfficial": true,
+      "file": "04-unti-unti.mp3",
+      "lyricFile": "04-unti-unti.lrc",
+      "lyricsLink": "https://www.youtube.com/watch?v=vw4MWvpJsqI",
+      "chapter": "04",
+>>>>>>> 0781108 (second commit)
       "id": "unti-unti",
       "title": "Unti-Unti",
       "artist": "UDD (Up Dharma Down)",
       "year": 2017,
+<<<<<<< HEAD
       "duration": 298,
       "link": "https://music.apple.com/us/song/1623885397",
       "album": "Unti-Unti / U D D",
+=======
+      "duration": 297.978776,
+      "link": "https://www.youtube.com/watch?v=vw4MWvpJsqI",
+      "album": "U D D",
+>>>>>>> 0781108 (second commit)
       "concept": "Union dissolution · household transitions",
       "issue": "Emotional separation",
       "evidence": "The gradual disappearance of words, affection, and promises in the group’s selected passage.",
       "interpretation": "The gradual loss of words and promises portrays emotional separation before a formal change in living arrangements. We connect this to union dissolution as a process, rather than a single moment. A couple may still share an address while the relationship has already changed. The song makes that gap between household appearance and lived experience audible. It helps explain why marital-status categories describe a population, yet cannot fully capture the loneliness or uncertainty within an individual partnership.",
       "cue": "A shared address can remain after closeness fades.",
       "excerpt": true,
+<<<<<<< HEAD
       "citation": "UDD. (2017). Unti-unti [Song]. Terno Recordings.",
       "recordingNote": "Runtime measured from the group’s uploaded MP3; music-video versions may include an intro or outro.",
       "videoOfficial": true,
       "videoChecked": "2026-11-04",
       "videoViews": 4930822,
       "videoSelection": "An official video with on-screen lyrics was found and chosen before fan uploads."
+=======
+      "citation": "Up Dharma Down. (2019). Unti-unti [Song]. On U D D. Terno Recordings. (Original work released 2017).",
+      "recordingNote": "Runtime measured from the group’s uploaded MP3; music-video versions may include an intro or outro.",
+      "videoChecked": "2026-11-09",
+      "videoSelection": "Published sing-along source; official or fan classification is shown beside the player.",
+      "versionNote": "First released as a single in 2017. Viva Records identifies the selected lyric video as the 2019 U D D album version; the supplied recording runs 4:58. The first-release year and the cited album edition are shown separately.",
+      "videoCitation": "Viva Records. (n.d.). Unti-Unti (Official lyric visuals) [Video]. YouTube."
+>>>>>>> 0781108 (second commit)
     },
     {
       "stage": "The fear of losing a shared life",
       "tagalog": "Pagkapit",
       "label": "What would we change just to stay?",
+<<<<<<< HEAD
       "chapter": "07",
       "side": "A",
+=======
+      "side": "B",
+>>>>>>> 0781108 (second commit)
       "color": "#8e87a2",
       "roomState": 4,
       "objectIndex": 0,
@@ -281,7 +402,11 @@ window.HOME_CATALOG = {
       "object": "Two cups at the edge of the table",
       "question": "Does devotion alone tell us whether a union should continue?",
       "answer": "No. The willingness to sacrifice reveals attachment, but a continuing union and a life both people can freely choose are different questions. The song cannot establish a legal status or a healthy relationship.",
+<<<<<<< HEAD
       "bridge": "The plea to stay makes the cost of leaving audible. Don’t Think Twice, It’s All Right follows with the difficult choice to depart when communication has failed.",
+=======
+      "bridge": "Wanting someone to stay cannot settle different futures. Don’t Think Twice, It’s All Right holds hesitation alongside departure.",
+>>>>>>> 0781108 (second commit)
       "lyrics": "I'll drown my belief\nTo have your babies\nI'll dress like your niece\nAnd wash your swollen feet\nJust don't leave\ndon't leave",
       "groupNote": "This song highlights the most important part of the song which is devotion and sacrifice. The singer talks about how he is willing to cut out parts of himself or change who he is just for the love of his partner. It highlights how love really changes who you are and how good love might even border devotion and worship.",
       "addedBy": "Reeyann",
@@ -289,18 +414,31 @@ window.HOME_CATALOG = {
       "videoKind": "lyrics",
       "videoLabel": "Fan lyric video · Lyrics and Stuff",
       "videoOfficial": false,
+<<<<<<< HEAD
       "videoChecked": "2026-11-09",
       "videoSelection": "A published English lyric video was located. It is a fan upload; no official on-screen lyric video was verified for this addition.",
       "file": "true-love-waits.mp3",
       "lyricFile": "true-love-waits.lrc",
       "lyricsLink": "https://www.youtube.com/watch?v=Ms4bKqfrJ4w",
+=======
+      "file": "true-love-waits.mp3",
+      "lyricFile": "true-love-waits.lrc",
+      "lyricsLink": "https://www.youtube.com/watch?v=Ms4bKqfrJ4w",
+      "chapter": "05",
+      "videoChecked": "2026-11-09",
+      "videoSelection": "Published sing-along source; official or fan classification is shown beside the player.",
+>>>>>>> 0781108 (second commit)
       "id": "true-love-waits",
       "title": "True Love Waits",
       "artist": "Radiohead",
       "year": 2016,
       "duration": 283.533061,
       "album": "A Moon Shaped Pool",
+<<<<<<< HEAD
       "link": "https://music.apple.com/us/song/1111578103",
+=======
+      "link": "https://radiohead.bandcamp.com/track/true-love-waits",
+>>>>>>> 0781108 (second commit)
       "concept": "Union stability · linked lives · agency",
       "issue": "Devotion, sacrifice, and the fear of union dissolution",
       "evidence": "The selected passage offers changes to belief, parenthood plans, and everyday care, then pleads for the partner to stay.",
@@ -308,14 +446,26 @@ window.HOME_CATALOG = {
       "cue": "Hear the fear beneath the promise to change.",
       "citation": "Radiohead. (2016). True love waits [Song]. On A moon shaped pool. XL Recordings.",
       "excerpt": true,
+<<<<<<< HEAD
       "recordingNote": "Runtime measured from the group’s uploaded MP3. This is the 2016 A Moon Shaped Pool studio recording."
+=======
+      "recordingNote": "Runtime measured from the group’s uploaded MP3. This is the 2016 A Moon Shaped Pool studio recording.",
+      "originalVideo": "WSnc_6Z7HqQ",
+      "originalVideoLabel": "Official audio · Radiohead",
+      "versionNote": "The supplied recording and selected passage use the 2016 A Moon Shaped Pool studio version. The published sing-along is a fan lyric video.",
+      "videoCitation": "Lyrics and Stuff. (n.d.). True Love Waits (Lyric video) [Video]. YouTube."
+>>>>>>> 0781108 (second commit)
     },
     {
       "stage": "Communication and departure",
       "tagalog": "Pag-alis",
       "label": "Leaving what could not be said",
+<<<<<<< HEAD
       "chapter": "08",
       "side": "A",
+=======
+      "side": "B",
+>>>>>>> 0781108 (second commit)
       "color": "#b09569",
       "roomState": 4,
       "objectIndex": 5,
@@ -323,23 +473,41 @@ window.HOME_CATALOG = {
       "object": "The doorway before leaving",
       "question": "Does a firm goodbye mean the decision was easy?",
       "answer": "Not necessarily. The selected passage leaves room for attachment and frustration alongside the decision to leave.",
+<<<<<<< HEAD
       "bridge": "An ambivalent departure becomes a firmer boundary. Bye Bye Bye gives the choice to leave a more decisive voice.",
+=======
+      "bridge": "The decision becomes real when the lease ends. The Apartment We Won’t Share grieves the home and future they must release.",
+>>>>>>> 0781108 (second commit)
       "lyrics": "But I wish there was somethin' you would do or say\nTo try and make me change my mind and stay\nBut we never did too much talking anyway\nBut don't think twice, it's all right",
       "groupNote": "",
       "addedBy": "Reeyann",
       "video": "fTVwGNqbBYg",
       "videoKind": "lyrics",
       "videoLabel": "Fan lyric video · S. B. G. P.",
+<<<<<<< HEAD
       "file": "dont-think-twice.mp3",
       "lyricFile": "dont-think-twice.lrc",
       "lyricsLink": "https://www.youtube.com/watch?v=fTVwGNqbBYg",
+=======
+      "videoOfficial": false,
+      "file": "dont-think-twice.mp3",
+      "lyricFile": "dont-think-twice.lrc",
+      "lyricsLink": "https://www.youtube.com/watch?v=fTVwGNqbBYg",
+      "chapter": "06",
+>>>>>>> 0781108 (second commit)
       "id": "dont-think-twice",
       "title": "Don’t Think Twice, It’s All Right",
       "artist": "Bob Dylan",
       "year": 1963,
+<<<<<<< HEAD
       "duration": 219,
       "album": "The Freewheelin’ Bob Dylan",
       "link": "https://www.bobdylan.com/songs/dont-think-twice-its-all-right/",
+=======
+      "duration": 219.036735,
+      "album": "The Freewheelin’ Bob Dylan",
+      "link": "https://www.bobdylan.com/albums/freewheelin-bob-dylan/",
+>>>>>>> 0781108 (second commit)
       "concept": "Union dissolution · decision-making",
       "issue": "Communication breakdown and separation",
       "evidence": "The wish for a reason to stay sits beside an acknowledgment of limited communication.",
@@ -349,6 +517,7 @@ window.HOME_CATALOG = {
       "excerpt": true,
       "recordingNote": "Runtime measured from the group’s uploaded MP3; music-video versions may include an intro or outro.",
       "textLyricsLink": "https://www.bobdylan.com/songs/dont-think-twice-its-all-right/",
+<<<<<<< HEAD
       "videoOfficial": false,
       "videoChecked": "2026-11-04",
       "videoViews": 933814,
@@ -400,12 +569,22 @@ window.HOME_CATALOG = {
       "videoChecked": "2026-11-04",
       "videoViews": 121867287,
       "videoSelection": "No suitable official lyric video was verified. This is the most-viewed suitable lyric upload among the search candidates checked; search results do not establish an exhaustive YouTube ranking."
+=======
+      "videoChecked": "2026-11-09",
+      "videoSelection": "Published sing-along source; official or fan classification is shown beside the player.",
+      "originalVideo": "1iHhWh9FtsQ",
+      "originalVideoLabel": "Official audio · Bob Dylan",
+      "videoCitation": "S. B. G. P. (n.d.). Don’t Think Twice, It’s All Right (Lyric video) [Video]. YouTube."
+>>>>>>> 0781108 (second commit)
     },
     {
       "stage": "The separate doors",
       "tagalog": "Pagbitaw",
       "label": "The future we release",
+<<<<<<< HEAD
       "chapter": "10",
+=======
+>>>>>>> 0781108 (second commit)
       "side": "B",
       "color": "#c1917f",
       "roomState": 5,
@@ -414,22 +593,39 @@ window.HOME_CATALOG = {
       "object": "A packed box",
       "question": "Is grieving a future the same thing as regretting the choice to leave?",
       "answer": "Not necessarily. The loss can be real even when separating is a necessary change in the life people had planned.",
+<<<<<<< HEAD
       "bridge": "Losing an imagined future can coexist with valuing the person. you were good to me makes room for gratitude, regret, and accountability.",
+=======
+      "bridge": "Returning a key ends the living arrangement before it ends every feeling. Paths closes with memory and an altered life course.",
+>>>>>>> 0781108 (second commit)
       "lyrics": "Not what I wanted, but what we need.",
       "groupNote": "Parting ways with a partner whom you once hoped to build a future with after realizing that your long-term plans don’t align.",
       "addedBy": "Aevi",
       "video": "GNQphbGu5xM",
       "videoKind": "lyrics",
       "videoLabel": "Official lyric video · NIKI",
+<<<<<<< HEAD
       "file": "05-the-apartment-we-wont-share.mp3",
       "lyricFile": "05-the-apartment-we-wont-share.lrc",
       "lyricsLink": "https://www.youtube.com/watch?v=GNQphbGu5xM",
+=======
+      "videoOfficial": true,
+      "file": "05-the-apartment-we-wont-share.mp3",
+      "lyricFile": "05-the-apartment-we-wont-share.lrc",
+      "lyricsLink": "https://www.youtube.com/watch?v=GNQphbGu5xM",
+      "chapter": "07",
+>>>>>>> 0781108 (second commit)
       "id": "apartment",
       "title": "The Apartment We Won’t Share",
       "artist": "NIKI",
       "year": 2022,
+<<<<<<< HEAD
       "duration": 150,
       "link": "https://music.apple.com/us/song/1766383512",
+=======
+      "duration": 149.88,
+      "link": "https://www.youtube.com/watch?v=GNQphbGu5xM",
+>>>>>>> 0781108 (second commit)
       "album": "Nicole",
       "concept": "Household formation · unrealized life plans",
       "issue": "A shared future reconsidered",
@@ -437,6 +633,7 @@ window.HOME_CATALOG = {
       "interpretation": "An apartment that will not be shared represents an imagined household that never forms. Through a life-course lens, the song shows how separation redirects plans for partnership, housing, and possibly family life. Its focus on an unrealized future supports our reading of changed expectations, rather than proving the couple was married. This distinction matters: a breakup is not automatically a divorce. The human experience is grieving a future while accepting that different lives may better fit the people involved.",
       "cue": "The future changes shape when two plans no longer align.",
       "excerpt": true,
+<<<<<<< HEAD
       "citation": "NIKI. (2022). The apartment we won’t share [Song]. On Nicole. 88rising Records / Warner Records.",
       "recordingNote": "Runtime measured from the group’s uploaded MP3; music-video versions may include an intro or outro.",
       "videoOfficial": true,
@@ -663,12 +860,22 @@ window.HOME_CATALOG = {
       "videoChecked": "2026-11-04",
       "videoViews": 32468046,
       "videoSelection": "No suitable official lyric video was verified. This is the most-viewed suitable lyric upload among the search candidates checked; search results do not establish an exhaustive YouTube ranking."
+=======
+      "citation": "NIKI. (2022). The apartment we won’t share [Song]. On Nicole. 88rising Records.",
+      "recordingNote": "Runtime measured from the group’s uploaded MP3; music-video versions may include an intro or outro.",
+      "videoChecked": "2026-11-09",
+      "videoSelection": "Published sing-along source; official or fan classification is shown beside the player.",
+      "videoCitation": "NIKI. (n.d.). The Apartment We Won’t Share (Official lyric video) [Video]. YouTube."
+>>>>>>> 0781108 (second commit)
     },
     {
       "stage": "Changed plans and continued growth",
       "tagalog": "Landas",
       "label": "The futures that take different paths",
+<<<<<<< HEAD
       "chapter": "16",
+=======
+>>>>>>> 0781108 (second commit)
       "side": "B",
       "color": "#9ca77f",
       "roomState": 6,
@@ -677,23 +884,41 @@ window.HOME_CATALOG = {
       "object": "A doorway to different paths",
       "question": "Why distinguish plans to marry from an existing marriage?",
       "answer": "They involve different demographic and legal transitions, even when both can carry the grief of a future that changes.",
+<<<<<<< HEAD
       "bridge": "Changed plans can still lead somewhere. Water the Roses closes the journey with the possibility of care and growth beyond the former relationship.",
+=======
+      "bridge": "Their lives continue at separate addresses. Take the hope, repair, loss, and unresolved feelings into our population discussion.",
+>>>>>>> 0781108 (second commit)
       "lyrics": "I thought we'd be married\nTwo pillars firm and proud\nBut real love is a verb\nI get it now",
       "groupNote": "Failing to achieve the dream of getting married and ending a relationship held close to the heart made the person realize that, after all, love is changing. Still, the hope of being together again remains.",
       "addedBy": "Therese",
       "video": "aarvhv5ZHzQ",
       "videoKind": "lyrics",
       "videoLabel": "Official lyric video · NIKI",
+<<<<<<< HEAD
       "file": "paths.mp3",
       "lyricFile": "paths.lrc",
       "lyricsLink": "https://www.youtube.com/watch?v=aarvhv5ZHzQ",
+=======
+      "videoOfficial": true,
+      "file": "paths.mp3",
+      "lyricFile": "paths.lrc",
+      "lyricsLink": "https://www.youtube.com/watch?v=aarvhv5ZHzQ",
+      "chapter": "08",
+>>>>>>> 0781108 (second commit)
       "id": "paths",
       "title": "Paths",
       "artist": "NIKI",
       "year": 2024,
+<<<<<<< HEAD
       "duration": 190,
       "album": "Buzz",
       "link": "https://music.apple.com/us/song/1757659059",
+=======
+      "duration": 189.831837,
+      "album": "Buzz",
+      "link": "https://www.youtube.com/watch?v=aarvhv5ZHzQ",
+>>>>>>> 0781108 (second commit)
       "concept": "Life course · unrealized family formation",
       "issue": "Revising plans for marriage",
       "evidence": "The imagined marriage is reconsidered as love becomes something practiced and changing.",
@@ -702,6 +927,7 @@ window.HOME_CATALOG = {
       "citation": "NIKI. (2024). Paths [Song]. On Buzz. 88rising Records.",
       "excerpt": true,
       "recordingNote": "Runtime measured from the group’s uploaded MP3; music-video versions may include an intro or outro.",
+<<<<<<< HEAD
       "videoOfficial": true,
       "videoChecked": "2026-11-04",
       "videoViews": 3060550,
@@ -749,15 +975,27 @@ window.HOME_CATALOG = {
       "videoOfficial": true,
       "videoChecked": "2026-11-04",
       "videoSelection": "The official music video displays lyric words as fridge-magnet poetry. This is confirmed in FLAVOR FOLEY’s production notes: https://flavorfoley.com/FFF/wtr."
+=======
+      "videoChecked": "2026-11-09",
+      "videoSelection": "Published sing-along source; official or fan classification is shown beside the player.",
+      "videoCitation": "NIKI. (n.d.). Paths (Official lyric video) [Video]. YouTube."
+>>>>>>> 0781108 (second commit)
     }
   ],
   "sources": [
     {
       "id": "psa",
       "label": "PSA · 2015 & 2020 census",
+<<<<<<< HEAD
       "url": "https://psa.gov.ph/statistics/population-and-housing/node/1684041368",
       "apa": "Philippine Statistics Authority. (2023, February 16). Four out of ten persons were never married (2020 Census of Population and Housing).",
       "note": "Tables 2–4; household population aged 10 and over. These are shares of people in reported marital-status categories, not annual divorce rates."
+=======
+      "url": "https://psa.gov.ph/system/files/phcd/Press%20Release%20on%20Marital%20Status_14Feb2023.pdf",
+      "apa": "Philippine Statistics Authority. (2023, February 14). Four out of ten persons were never married (2020 Census of Population and Housing) [Press release].",
+      "note": "Tables 2–4; household population aged 10 and over. These are shares of people in reported marital-status categories, not annual divorce rates.",
+      "apaTitle": "Four out of ten persons were never married (2020 Census of Population and Housing)"
+>>>>>>> 0781108 (second commit)
     },
     {
       "id": "family-code",
@@ -775,6 +1013,7 @@ window.HOME_CATALOG = {
     "Therese"
   ],
   "deadline": "November 10, 12:00 AM — submit by the end of November 9",
+<<<<<<< HEAD
   "sequenceRationale": "Cornelia Street establishes the shared home. Vines makes room for repair; Hallelujah holds love’s contradictions; Pitseleh acknowledges responsibility for hurt. Hit the Wall reaches a personal limit and Unti-Unti lets closeness fade. True Love Waits voices devotion and the fear of losing a shared future before the choice to separate. Don’t Think Twice, It’s All Right makes departure ambivalent before Bye Bye Bye turns it into a decision. The Apartment We Won’t Share grieves the imagined future; you were good to me holds gratitude and regret. Moira and Ben&Ben’s Paalam says goodbye; Silent Sanctuary’s Paalam lets that farewell linger, while 2 MINUS 1 shows that recovery is uneven. You’re Gonna Live Forever in Me preserves memory, Paths reconsiders the future, and Water the Roses imagines new growth. Every selection advances the same story; no song sits outside it."
 };
 
@@ -790,3 +1029,8 @@ window.HOME_CATALOG.tracks = window.HOME_CATALOG.tracks.map((track,index,all)=>(
   file:`${track.id}.mp3`,lyricFile:`${track.id}.lrc`,lyricsLink:track.link,
   ...track,chapter:String(index+1).padStart(2,'0')
 }));
+=======
+  "sequenceRationale": "Cornelia Street gives the shared home emotional meaning. Vines leaves room for repair; Hit the Wall recognizes personal limits; Unti-Unti lets closeness fade. True Love Waits voices attachment before Don’t Think Twice, It’s All Right holds the choice to leave beside hesitation. The Apartment We Won’t Share releases the imagined home, and Paths closes with changed plans and feelings that outlast a shared address. Together, the eight songs trace union formation, maintenance, dissolution, and life after separation.",
+  "sourceChecked": "November 9, 2026"
+};
+>>>>>>> 0781108 (second commit)

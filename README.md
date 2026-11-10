@@ -1,5 +1,6 @@
 # Sa Iisang Bubong
 
+<<<<<<< HEAD
 A presentation website about coming together, living together, and the freedom to begin again. The illustrated scenes and dialogue are made for the group’s DEMO 1 presentation. Mika and Eli use free CC0 pixel-art sprites by cyanowl, adapted with distinct hair and clothing colors. It preserves all 17 supplied recordings and their narrative order.
 
 ## Publish on GitHub Pages
@@ -93,3 +94,58 @@ The commute, room, and separate-home artwork has no floating labels, character-n
 ## November 9 additions
 
 True Love Waits by Radiohead is included as the seventeenth recording, placed between Unti-Unti and Don’t Think Twice, It’s All Right. Reeyann’s six selected lines from the updated group PDF are retained as written and included as a prepared story cut in chapter 4. Line starts use the 2016 studio version’s synchronized lyric cues; the passage ends before the next verse. The native cut has the original lead vocal. The newly uploaded Paths MP3 is byte-for-byte identical to the existing recording, so the playlist keeps one Paths entry and its existing matched cut. All other songs, scenes, and recordings are preserved.
+=======
+A complete, buildless DEMO 1 presentation: one shared roof, changing unions, and the freedom to begin again.
+
+## Put it on GitHub Pages
+
+Upload the contents of this folder so `index.html` is at the repository root, alongside `app.js`, `styles.css`, `revision.css`, and the media folders. In GitHub, choose Settings → Pages → Deploy from a branch → main → /(root). Keep `.nojekyll`.
+
+No installation, build, API key, Apple Music login, or visitor file-management workflow is needed. All media paths are relative, including on a repository subpath. For local rehearsal, run `python3 -m http.server 8000` in this folder and open http://localhost:8000. The packaged recordings, story, native lyric cuts, and charts work locally; Google Fonts and published YouTube videos need the internet.
+
+## Final eight songs
+
+| # | Song | Artist | First release | Supplied recording |
+| --- | --- | --- | --- | --- |
+| 1 | Cornelia Street | Taylor Swift | 2019 | 4:48 |
+| 2 | Vines | The Ridleys | 2024 | 3:17 |
+| 3 | Hit the Wall | Gracie Abrams | 2026 | 3:17 |
+| 4 | Unti-Unti | UDD (Up Dharma Down) | 2017 | 4:58 |
+| 5 | True Love Waits | Radiohead | 2016 | 4:44 |
+| 6 | Don’t Think Twice, It’s All Right | Bob Dylan | 1963 | 3:39 |
+| 7 | The Apartment We Won’t Share | NIKI | 2022 | 2:30 |
+| 8 | Paths | NIKI | 2024 | 3:10 |
+
+Full recordings total **30:22**, about 30 minutes (22 seconds beyond the guide’s approximate 30-minute upper target). The skit contains **2:42** of selected music plus the time taken for dialogue and discussion. All eight interpretations contain 71–87 words and meet the 100-word maximum.
+
+Unti-Unti was first released in 2017. The selected Viva lyric visuals identify the 2019 U D D album version; the supplied recording runs 4:58. The edition note and recording citation distinguish these dates.
+
+## Four chapters
+
+1. **Our topic:** the original title, theme, reasons for choosing it, and the group’s position on divorce as an option.
+2. **Story & song cuts:** the revised six-part Mika and Eli script with Narrator 1, Narrator 2, Mika, and Eli. The full conversation is readable per scene and in the rehearsal-script dialog. Reading pace, manual next/previous controls, scene selection, motion controls, original background music, and matched song cuts support classroom use. The uploaded PDF is included at `documents/group-script.pdf`.
+3. **Full playlist:** exactly eight complete recordings in a coherent story order, separate from the short skit cuts. Each has artist, year, runtime, source, interpretation, song evidence, demographic concepts, original group notes where supplied, a question, and a bridge to the next track. Search, Play all, next/previous, seek, volume, and published sing-along videos are available.
+4. **Closing data:** verified census charts, qualitative research context, youth union-status figures, eight interactive demographic concepts with measurement explanations, a household scenario, overall reflection, scoped legal context, and APA references for research, recordings, and videos. Section shortcuts make the information easy to reach.
+
+## Script and music
+
+Spoken dialogue follows the updated group PDF. A repeated narrator paragraph in Part 2 appears once. Generic narrator lines are split between the two narrator roles. Music transitions follow the eight selected songs. `STORY.md` contains the rehearsal script.
+
+Each of the eight songs has a group-supplied selected passage and a prepared stereo WAV in `cuts/`. These keep the original vocal. The native stage highlights each line against its clip timeline and stops at the end of the prepared file. Full MP3s remain separate. The published sing-alongs open in an embedded player with a direct YouTube fallback; official, fan, and live-performance sources are labeled. Vines uses an authorized performance whose full lyrics are in its description; on-screen lyrics were not verified.
+
+## Evidence
+
+Sources were reviewed November 9, 2026. `SOURCE_NOTES.md` records scope and link corrections. Historical PSA figures are explicitly labeled 2015 and 2020, with household population aged 10+ as their denominator. The divorced/separated/annulled category is combined; it is not an annual divorce rate or a measure of harm. The fictional case is not national evidence and is not a legal divorce: Mika and Eli never marry. YAFS covers ages 15–24, so Eli, 25, is outside its age range. Kuang’s focus groups do not establish how widespread a reason is. The group’s policy position remains distinct from both data and law. The current progress of the cited Senate proposal could not be confirmed; its filing and proposed status are labeled.
+
+## Files and maintenance
+
+- `index.html`, `app.js`, `styles.css`, `revision.css`: website and interactions.
+- `catalog.js`: the final eight selections and their metadata; no public playlist editor.
+- `presentation-data.js`, `STORY.md`, `documents/group-script.pdf`: dialogue, roles, six scenes, source script, and clip timing.
+- `concepts.js`, `laws.js`, `SOURCE_NOTES.md`: academic context and checked source notes.
+- `mp3/`, `cuts/`, `lyrics/`: exactly eight full songs, eight prepared passages, and eight selected-line sidecars.
+- `story-world.js`, `assets/sprites/`: pixel scenes and local CC0 sprite assets; see `assets/ARTWORK.md`.
+- `story-music.js`, `assets/audio/`: original story ambience, separate from song playback.
+
+The ZIP contains only the eight submitted songs. There are no import/export controls. To revise a later version, edit the source catalog and matching scene IDs; keep stable file paths and adjust cue data when changing a recording.
+>>>>>>> 0781108 (second commit)

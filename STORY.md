@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mika & Eli: One key, two possible futures
 
 An original fictional case for Sa Iisang Bubong. They are an unmarried couple in their mid-twenties. Their details illustrate one possible path through cohabitation and union dissolution; they are not a survey finding about a whole generation.
@@ -7,6 +8,24 @@ An original fictional case for Sa Iisang Bubong. They are an unmarried couple in
 Month 0 · Before the move
 
 **Narrator:** Mika, 24, is a contract designer. Eli, 25, works rotating support shifts. After three years together, most dates still happen between long commutes.
+=======
+# Sa Iisang Bubong: rehearsal script
+
+Adapted from the group’s updated six-part script. Spoken dialogue is retained, a duplicated narrator paragraph is removed, and the narration is divided between two readers. Music cues follow the final eight-song sequence.
+
+## Roles
+
+- **Narrator 1** — Introduces the setting and each change in time.
+- **Narrator 2** — Connects their choices to the demographic question.
+- **Mika** — 24 · contract designer; considering work in Iloilo.
+- **Eli** — 25 · rotating support shifts; supporting his brother.
+
+## Part 1: Why one home makes sense
+
+Month 0 · Before the move
+
+**Narrator 1:** Mika, 24, is a contract designer. Eli, 25, works rotating support shifts. After three years together, most dates still happen between long commutes.
+>>>>>>> 0781108 (second commit)
 
 **Mika:** By the time I get home, you’re leaving for work. I want us to have a normal dinner, not just messages saying we miss each other.
 
@@ -16,6 +35,7 @@ Month 0 · Before the move
 
 **Eli:** Yes. I do hope we’ll marry someday. Let’s talk about what “someday” means instead of assuming we mean the same thing.
 
+<<<<<<< HEAD
 **Narrator:** They move in unmarried. Sharing costs matters, but so do affection, independence, and learning what everyday partnership asks of them.
 
 **Music transition:** The first shared home is made of ordinary moments: arriving, cooking, and being there. Cornelia Street gives that place its emotional weight.
@@ -27,6 +47,21 @@ Month 0 · Before the move
 Month 3 · Everyday life
 
 **Narrator:** For a while, they make the schedules work. Eli leaves breakfast before sleeping; Mika packs his dinner before her own deadlines.
+=======
+**Narrator 2:** They move in unmarried. Sharing costs matters, but so do affection, independence, and learning what everyday partnership asks of them.
+
+**Music transition:** The first shared home is made of ordinary moments: arriving, cooking, and being there. Cornelia Street gives that place its emotional weight.
+
+**Song cuts:** Cornelia Street
+
+**Demographic lens:** Cohabitation · household formation
+
+## Part 2: The work behind “ours”
+
+Month 3 · Everyday life
+
+**Narrator 1:** For a while, they make the schedules work. Eli leaves breakfast before sleeping; Mika packs his dinner before her own deadlines.
+>>>>>>> 0781108 (second commit)
 
 **Mika:** Lately I’m cooking, tracking the bills, and reminding you what we need. I’m tired too. I don’t want to become the manager of our home.
 
@@ -36,6 +71,7 @@ Month 3 · Everyday life
 
 **Eli:** Let’s put the chores and expenses where we can both see them. I’ll handle the groceries and laundry. We’ll protect one evening a week for us.
 
+<<<<<<< HEAD
 **Narrator:** The chart helps. For the next few months they try to share care more fairly. Repair is possible—but practical agreements cannot answer every question about a future.
 
 **Music transition:** The problem is not a single unwashed plate. It is the feeling of becoming the only person who notices what the home needs.
@@ -47,6 +83,21 @@ Month 3 · Everyday life
 Month 6 · The plans beneath the plans
 
 **Narrator:** Six months in, the dishes are no longer the main issue. Mika’s contract will end later in the year. She starts applying for stable work in Iloilo, near her family.
+=======
+**Narrator 2:** The chart helps. For the next few months they try to share care more fairly. Repair is possible—but practical agreements cannot answer every question about a future.
+
+**Music transition:** The problem is not a single unwashed plate. It is the feeling of becoming the only person who notices what the home needs.
+
+**Song cuts:** Vines
+
+**Demographic lens:** Household well-being · division of care
+
+## Part 3: They meant different things by “later”
+
+Month 6 · The plans beneath the plans
+
+**Narrator 1:** Six months in, the dishes are no longer the main issue. Mika’s contract will end later in the year. She starts applying for stable work in Iloilo, near her family.
+>>>>>>> 0781108 (second commit)
 
 **Mika:** If I get the job, I want to take it. I also want a few years to build my career. I’m still unsure whether I want children.
 
@@ -56,6 +107,7 @@ Month 6 · The plans beneath the plans
 
 **Eli:** I should have asked. Moving in felt like we were already on the same path, so I stopped checking where each of us actually wanted to go.
 
+<<<<<<< HEAD
 **Narrator:** Neither plan is wrong. But avoiding the difference makes the home lonelier. They still share an address while important conversations become messages left unanswered.
 
 **Music transition:** A chore chart can divide tasks. It cannot make two people want the same future. The songs now turn from repair toward limits and emotional distance.
@@ -67,6 +119,21 @@ Month 6 · The plans beneath the plans
 Month 9 · After trying to repair
 
 **Narrator:** They keep the weekly conversations for three more months. Some days feel close again. Then Mika receives the Iloilo offer, and they have to stop treating their future as a distant question.
+=======
+**Narrator 2:** Neither plan is wrong. But avoiding the difference makes the home lonelier. They still share an address while important conversations become messages left unanswered.
+
+**Music transition:** A chore chart can divide tasks. It cannot make two people want the same future. The songs now turn from repair toward limits and emotional distance.
+
+**Song cuts:** Hit the Wall, Unti-Unti
+
+**Demographic lens:** Life course · expectations · linked lives
+
+## Part 4: An ending they do not rush
+
+Month 9 · After trying to repair
+
+**Narrator 1:** They keep the weekly conversations for three more months. Some days feel close again. Then Mika receives the Iloilo offer, and they have to stop treating their future as a distant question.
+>>>>>>> 0781108 (second commit)
 
 **Eli:** Could we try living apart for work? I don’t want to call this over just because a job is in another city.
 
@@ -76,6 +143,7 @@ Month 9 · After trying to repair
 
 **Mika:** Then let’s not renew the lease together. We can love what we built and still accept that we can’t keep building the same life.
 
+<<<<<<< HEAD
 **Narrator:** They choose to end the relationship when the lease ends. This is their response to persistent differences after trying to repair—not a rule about what every couple should do.
 
 **Music transition:** They both wish there were a way to stay without asking the other person to become someone else. True Love Waits gives that attachment a voice; Don’t Think Twice, It’s All Right then holds hesitation beside the choice to leave.
@@ -87,6 +155,21 @@ Month 9 · After trying to repair
 Month 12 · The lease ends
 
 **Narrator:** At the end of the lease, there are final bills, a deposit, and belongings neither person can pretend are only sentimental. They make a list before they start packing.
+=======
+**Narrator 2:** They choose to end the relationship when the lease ends. This is their response to persistent differences after trying to repair—not a rule about what every couple should do.
+
+**Music transition:** They both wish there were a way to stay without asking the other person to become someone else. True Love Waits gives that attachment a voice; Don’t Think Twice, It’s All Right then holds hesitation beside the choice to leave.
+
+**Song cuts:** True Love Waits, Don’t Think Twice, It’s All Right
+
+**Demographic lens:** Union dissolution · agency
+
+## Part 5: Leaving is also a practical task
+
+Month 12 · The lease ends
+
+**Narrator 1:** At the end of the lease, there are final bills, a deposit, and belongings neither person can pretend are only sentimental. They make a list before they start packing.
+>>>>>>> 0781108 (second commit)
 
 **Mika:** The deposit came from both of us. Let’s settle the utilities first, then divide what’s left. I’ll take the desk; you keep the table you brought from home.
 
@@ -96,6 +179,7 @@ Month 12 · The lease ends
 
 **Eli:** You were good to me in ways I didn’t always notice. I’m sorry for that. I can be grateful without asking you to stay.
 
+<<<<<<< HEAD
 **Narrator:** They return the key. Two people have not disappeared from the population; a shared household has changed, and their relatives now become part of each person’s support network.
 
 **Music transition:** They are packing more than objects. They are releasing the apartment, the routines, and the future they once pictured together. Gratitude and grief can remain after the decision is made.
@@ -107,11 +191,27 @@ Month 12 · The lease ends
 Six months later · Separate lives
 
 **Narrator:** Six months later, Mika is working in Iloilo. Eli is still in Metro Manila. They have new routines, but neither person feels completely fine on a neat schedule.
+=======
+**Narrator 2:** They return the key. Two people have not disappeared from the population; a shared household has changed, and their relatives now become part of each person’s support network.
+
+**Music transition:** They are packing more than objects. They are releasing the apartment, the routines, and the future they once pictured together. Gratitude and grief can remain after the decision is made.
+
+**Song cuts:** The Apartment We Won’t Share
+
+**Demographic lens:** Household reorganization · support networks
+
+## Part 6: Two addresses, unfinished feelings
+
+Six months later · Separate lives
+
+**Narrator 1:** Six months later, Mika is working in Iloilo. Eli is still in Metro Manila. They have new routines, but neither person feels completely fine on a neat schedule.
+>>>>>>> 0781108 (second commit)
 
 **Eli:** Some days I say I’m doing great. Then I start a message to you and remember that missing someone isn’t the same as having a different answer to what ended us.
 
 **Mika:** The plant from our window is beside my new desk. I’m glad I took this job. I still miss the evenings when the apartment felt like ours.
 
+<<<<<<< HEAD
 **Narrator:** They moved in for love, more time, and a manageable shared life. They left after repair revealed different plans they could not honestly promise to one another.
 
 **Narrator:** They were not married, so this story is about cohabitation and the end of a union. It should not be counted as a legal divorce.
@@ -122,3 +222,16 @@ Six months later · Separate lives
 
 **Demographic lens:** Post-separation adjustment · life course.
 
+=======
+**Narrator 2:** They moved in for love, more time, and a manageable shared life. They left after repair revealed different plans they could not honestly promise to one another.
+
+**Narrator 2:** They were not married, so this story is about cohabitation and the end of a union. It should not be counted as a legal divorce.
+
+**Narrator 2:** Their story opens a wider question for our closing discussion: when a marriage can no longer be sustained, what choices and support should help people leave with dignity?
+
+**Music transition:** The closing song moves through memory and changed plans. Their new addresses arrive before every feeling catches up.
+
+**Song cuts:** Paths
+
+**Demographic lens:** Post-separation adjustment · life course
+>>>>>>> 0781108 (second commit)

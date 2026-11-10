@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SA IISANG BUBONG — THE PRESENTATION EDITION
 
 Your complete website and all 17 supplied MP3 recordings are included.
@@ -36,3 +37,12 @@ The rooms, commute, and separate homes use the same eight-unit pixel grid as the
 
 STORY MUSIC
 A gentle instrumental loop is included locally. Start the story or tap a dialogue/chapter control to hear it. Use Music on/off and Volume below the dialogue. It pauses for lyric clips and stays separate from the full-song playlist.
+=======
+SA IISANG BUBONG — FINAL EIGHT-SONG WEBSITE
+
+Upload the contents of this folder to your GitHub repository root. index.html must be at the root. Enable GitHub Pages: main branch, /(root).
+
+Read README.md for instructions, STORY.md for rehearsal, and SOURCE_NOTES.md for checked sources.
+
+8 complete songs · 30:22 total · 6 scripted scenes · 4 readers · 8 timed lyric cuts.
+>>>>>>> 0781108 (second commit)

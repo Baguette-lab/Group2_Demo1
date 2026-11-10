@@ -1,7 +1,11 @@
 'use strict';
 // Educational context for our demographic story. Each rule keeps its jurisdiction.
 window.HOME_LEGAL = {
+<<<<<<< HEAD
   checked: 'November 5, 2026',
+=======
+  checked: 'November 9, 2026',
+>>>>>>> 0781108 (second commit)
   note: 'There is no single worldwide divorce procedure. National rules, special legal routes, and international rights principles have different scopes. These are selected examples for class discussion, not an assessment of anyone’s eligibility.',
   scopes: [
     {
@@ -45,9 +49,15 @@ window.HOME_LEGAL = {
           id: 'divorce-proposal', jurisdiction: 'PHILIPPINES · 20TH CONGRESS', status: 'Filed bill · verify current legislative history', type: 'proposal',
           title: 'The divorce-policy debate', basis: 'Senate Bill No. 394 · Dissolution of Marriage Act',
           result: 'A bill describes a proposed change, not an available remedy.',
+<<<<<<< HEAD
           detail: 'Filed July 10, 2025, S.B. 394 proposes expanded dissolution grounds and divorce procedures. We discuss this filed bill as a proposal, rather than proof of an available general divorce remedy. Consult the linked legislative history for its current progress.',
           lens: 'Our support for divorce as an option is the group’s policy position. It must be distinguished from what an enacted statute currently provides.',
           tracks: ['paalam', 'water-the-roses'], sources: ['ph-divorce-bill']
+=======
+          detail: 'Filed July 10, 2025, S.B. 394 proposes expanded dissolution grounds and divorce procedures. We discuss this filed bill as a proposal, rather than proof of an available general divorce remedy. Its filing is verified; current legislative progress could not be confirmed from the accessible record during our November 9, 2026 review.',
+          lens: 'Our support for divorce as an option is the group’s policy position. It must be distinguished from what an enacted statute currently provides.',
+          tracks: ['dont-think-twice', 'paths'], sources: ['ph-divorce-bill']
+>>>>>>> 0781108 (second commit)
         }
       ]
     },
@@ -62,7 +72,11 @@ window.HOME_LEGAL = {
           result: 'A sole or joint application can state irretrievable breakdown.',
           detail: 'The no-fault framework removes the need to allege a spouse’s misconduct. Ordinarily there are 20 weeks from issue before a conditional order can be sought, then at least 6 weeks and 1 day before applying for a final order. These are minimum stages, not a guaranteed completion time.',
           lens: 'Ending legal status and arranging children, money, and housing are connected but distinct tasks. This example is England and Wales; Scotland and Northern Ireland have different procedures.',
+<<<<<<< HEAD
           tracks: ['dont-think-twice', 'paalam'], sources: ['ew-divorce-act', 'ew-apply', 'ew-final']
+=======
+          tracks: ['dont-think-twice'], sources: ['ew-divorce-act', 'ew-apply', 'ew-final']
+>>>>>>> 0781108 (second commit)
         },
         {
           id: 'australia', jurisdiction: 'AUSTRALIA', status: 'Law explained by the court', type: 'law',
@@ -85,7 +99,11 @@ window.HOME_LEGAL = {
           result: 'Equal rights apply at marriage, during it, and at its dissolution.',
           detail: 'Article 16 also affirms free and full consent to marriage. The UDHR is a declaration, not a treaty or a country’s divorce statute. It supplies a rights lens; it does not specify local grounds or filing procedures.',
           lens: 'We use this principle to discuss dignity and mutual choice, rather than treating a song’s goodbye as a legal judgment.',
+<<<<<<< HEAD
           tracks: ['vines', 'paalam'], sources: ['udhr']
+=======
+          tracks: ['vines'], sources: ['udhr']
+>>>>>>> 0781108 (second commit)
         },
         {
           id: 'cedaw', jurisdiction: 'INTERNATIONAL · STATES PARTIES TO THE TREATY', status: 'Treaty obligation', type: 'principle',
@@ -93,7 +111,11 @@ window.HOME_LEGAL = {
           result: 'States parties must address discrimination in marriage and family relations.',
           detail: 'Article 16 calls for equal rights and responsibilities during marriage and its dissolution, and as parents regardless of marital status, with children’s interests paramount. CEDAW is a treaty for states parties; it does not prescribe a uniform divorce application or timetable.',
           lens: 'The discussion must include care, resources, and responsibilities after separation, alongside the possibility of beginning again.',
+<<<<<<< HEAD
           tracks: ['water-the-roses', 'paalam'], sources: ['cedaw']
+=======
+          tracks: ['apartment', 'paths'], sources: ['cedaw']
+>>>>>>> 0781108 (second commit)
         }
       ]
     }
@@ -110,6 +132,7 @@ if (familyCodeSource) Object.assign(familyCodeSource, {
 });
 window.HOME_CATALOG.sources.push(
   {id:'ph-muslim-code',label:'PH · Code of Muslim Personal Laws',url:'https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/26/54047',apa:'Republic of the Philippines. (1977, February 4). Presidential Decree No. 1083: Code of Muslim Personal Laws of the Philippines (Arts. 13, 45–55). Supreme Court E-Library.'},
+<<<<<<< HEAD
   {id:'ph-foreign-divorce',label:'PH Supreme Court · Foreign-divorce framework',url:'https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/68499',apa:'Supreme Court of the Philippines. (2022). Republic of the Philippines v. Bayog-Saito, G.R. No. 247297.'},
   {id:'ph-divorce-bill',label:'PH Senate · S.B. 394 legislative record',url:'https://legacy.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-394',apa:'Senate of the Philippines. (2025). Senate Bill No. 394: Dissolution of Marriage Act (20th Congress) [Bill and legislative history]. Retrieved November 4, 2026, from'},
   {id:'ew-divorce-act',label:'England & Wales · 2020 Act',url:'https://www.legislation.gov.uk/ukpga/2020/11?view=plain',apa:'United Kingdom. (2020). Divorce, Dissolution and Separation Act 2020 (c. 11).'},
@@ -119,6 +142,17 @@ window.HOME_CATALOG.sources.push(
   {id:'au-apply',label:'Australian court · Filing & separation',url:'https://www.fcfcoa.gov.au/fl/divorce/apply',apa:'Federal Circuit and Family Court of Australia. (n.d.-b). How do I apply for divorce? Retrieved November 4, 2026, from'},
   {id:'udhr',label:'United Nations · UDHR, Article 16',url:'https://www.un.org/en/about-us/universal-declaration-of-human-rights/',apa:'United Nations. (1948, December 10). Universal Declaration of Human Rights (Art. 16).'},
   {id:'cedaw',label:'United Nations · CEDAW, Article 16',url:'https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-elimination-all-forms-discrimination-against-women',apa:'United Nations. (1979, December 18). Convention on the Elimination of All Forms of Discrimination against Women (Art. 16). Office of the United Nations High Commissioner for Human Rights.'}
+=======
+  {id:'ph-foreign-divorce',label:'PH Supreme Court · Foreign-divorce framework',url:'https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/1/68499',apa:'Supreme Court of the Philippines. (2022, August 17). Republic of the Philippines v. Bayog-Saito, G.R. No. 247297.'},
+  {id:'ph-divorce-bill',label:'PH Senate · S.B. 394 legislative record',url:'https://legacy.senate.gov.ph/lis/bill_res.aspx?congress=20&q=SBN-394',apa:'Senate of the Philippines. (2025). Senate Bill No. 394: Dissolution of Marriage Act (20th Congress) [Bill and legislative history]. Retrieved November 9, 2026, from'},
+  {id:'ew-divorce-act',label:'England & Wales · 2020 Act',url:'https://www.legislation.gov.uk/ukpga/2020/11/pdfs/ukpga_20200011_en.pdf',apa:'United Kingdom. (2020). Divorce, Dissolution and Separation Act 2020 (c. 11).'},
+  {id:'ew-apply',label:'GOV.UK · Application & conditional order',url:'https://www.gov.uk/divorce/what-happens-after-you-apply',apa:'HM Courts & Tribunals Service. (n.d.-b). Get a divorce: What happens after you apply. GOV.UK. Retrieved November 9, 2026, from'},
+  {id:'ew-final',label:'GOV.UK · Final order',url:'https://www.gov.uk/divorce/finalise-your-divorce',apa:'HM Courts & Tribunals Service. (n.d.-a). Get a divorce: Finalise your divorce. GOV.UK. Retrieved November 9, 2026, from'},
+  {id:'au-divorce',label:'Australian court · Divorce overview',url:'https://www.fcfcoa.gov.au/fl/divorce/divorce-overview',apa:'Federal Circuit and Family Court of Australia. (n.d.-a). Divorce: Overview. Retrieved November 9, 2026, from'},
+  {id:'au-apply',label:'Australian court · Filing & separation',url:'https://www.fcfcoa.gov.au/fl/divorce/apply',apa:'Federal Circuit and Family Court of Australia. (n.d.-b). How do I apply for divorce? Retrieved November 9, 2026, from'},
+  {id:'udhr',label:'United Nations · UDHR, Article 16',url:'https://www.un.org/en/about-us/universal-declaration-of-human-rights/',apa:'United Nations. (1948, December 10). Universal Declaration of Human Rights (Art. 16).'},
+  {id:'cedaw',label:'United Nations · CEDAW, Article 16',url:'https://treaties.un.org/doc/Publication/UNTS/Volume%201249/volume-1249-I-20378-English.pdf',apa:'United Nations. (1979, December 18). Convention on the Elimination of All Forms of Discrimination against Women (Art. 16).'}
+>>>>>>> 0781108 (second commit)
 );
 
 // Explicit titles keep abbreviations and question marks intact in APA styling.

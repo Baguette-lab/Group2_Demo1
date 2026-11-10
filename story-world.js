@@ -222,7 +222,11 @@ window.StoryWorld = (() => {
     const g=item.canvas.getContext('2d'),ratio=item.ratio;g.setTransform(ratio,0,0,ratio,0,0);g.imageSmoothingEnabled=false;
     if(item.mode==='portrait'||item.mode==='cast'){
       const who=item.mode==='cast'?item.who:state.speaker;
+<<<<<<< HEAD
       if(who==='Narrator')renderPixelScene(item,g,pg=>{box(pg,0,0,160,184,'#eee8f2');plant(pg,80,126,1.1)},160,184);
+=======
+      if(who.startsWith('Narrator'))renderPixelScene(item,g,pg=>{box(pg,0,0,160,184,'#eee8f2');plant(pg,80,126,1.1)},160,184);
+>>>>>>> 0781108 (second commit)
       else portrait(g,who.toLowerCase(),t,item.mode!=='cast'&&state.phase==='dialogue'&&t-state.beatAt<4.5);
       return;
     }

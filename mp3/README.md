@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Our playlist recordings
 
 All 17 recordings supplied by the group are included and connected. Files have stable names; adding or reordering songs does not require an import/export feature.
@@ -25,3 +26,10 @@ All 17 recordings supplied by the group are included and connected. Files have s
 Runtimes were measured from the actual MP3s. Some are music-video audio versions with intros or outros; the total is approximately 65:57.
 
 To add another selection, put its MP3 here and add one object to the tracks array in catalog.js. Set file to the exact name. The site reads files directly.
+=======
+# mp3
+
+Eight complete original recordings supplied by the group. The source catalog sets the submitted selection and order.
+
+The public website has no upload, import, or export interface. Keep filenames unchanged unless updating the matching catalog and cue entries.
+>>>>>>> 0781108 (second commit)
