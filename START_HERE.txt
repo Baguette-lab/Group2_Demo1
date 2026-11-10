@@ -1,0 +1,38 @@
+SA IISANG BUBONG — THE PRESENTATION EDITION
+
+Your complete website and all 17 supplied MP3 recordings are included.
+
+1. Extract the ZIP.
+2. Open sa-iisang-bubong/.
+3. Upload everything inside it to your GitHub repository, with index.html at the root.
+4. In GitHub Settings > Pages, publish main / (root).
+
+The presentation now follows four chapters:
+OUR TOPIC > STORY & SONG CUTS > FULL PLAYLIST > CLOSING DATA.
+
+The illustrated story follows Mika and Eli through a year: why they move in,
+how they try to repair their routines, why their plans part, and how they move out.
+Six chapters contain 36 dialogue moments, with scenes that change with the story.
+The story alternates dialogue with the selected song cuts.
+Thirteen songs have your chosen lyric passages, preset play cues, and line highlights.
+Play a cut, let it stop at its final selected line, discuss its meaning, then continue.
+The complete playlist remains a separate page. Data, reflection, and references close the presentation.
+Four songs still need your chosen passage: Hallelujah, Bye Bye Bye, and both Paalam songs.
+The complete recordings and existing lyric-video links remain available for all songs.
+
+Nothing needs importing. There is room to add more songs in catalog.js and mp3/.
+Include cuts/ when uploading the site: it contains the prepared lyric passages.
+The full original songs remain in mp3/.
+Use numbered moment buttons, Previous dialogue, and Read the whole conversation.
+Use Pause movement or Replay movement for the 2D character animation.
+STORY.md contains the full script.
+Read README.md for presentation controls, sources, and adding songs.
+
+FULL SONGS AND STORY CUTS
+Full playlist plays the complete MP3 recordings, with Play all, pause/resume, seeking, and automatic next-song playback. The spliced WAV clips, selected lyrics, and line highlighting live only in Story & song cuts. Switching between them clears the prior recording.
+
+PIXEL SCENERY
+The rooms, commute, and separate homes use the same eight-unit pixel grid as the characters. Readable labels and interface text remain separate from the low-resolution scenery.
+
+STORY MUSIC
+A gentle instrumental loop is included locally. Start the story or tap a dialogue/chapter control to hear it. Use Music on/off and Volume below the dialogue. It pauses for lyric clips and stays separate from the full-song playlist.

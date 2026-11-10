@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#f4efdf"><meta name="description" content="Sa Iisang Bubong: an interactive demographic music presentation about building a shared home, parting ways, and beginning again.">
+<title>Sa Iisang Bubong — Our lives, in songs</title>
+<link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Serif+Display:ital@0;1&family=Pixelify+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="preload" as="image" href="assets/sprites/mika.png?v=cc0-v1"><link rel="preload" as="image" href="assets/sprites/eli.png?v=cc0-v1">
+<link rel="stylesheet" href="styles.css?v=story-audio-v1">
+<script defer src="catalog.js?v=playlist-20261109"></script><script defer src="concepts.js?v=playlist-20261109"></script><script defer src="laws.js"></script><script defer src="presentation-data.js?v=recording-cuts-20261109-v4"></script><script defer src="story-world.js?v=aligned-sprites-v2"></script><script defer src="story-music.js?v=1"></script><script defer src="app.js?v=story-audio-v1"></script>
+</head>
+<body>
+<a href="#main" class="skip">Skip to presentation</a>
+<header class="site-header"><a href="#intro" class="brand" aria-label="Bubong home"><span class="brand-house" aria-hidden="true">⌂</span>bubong<span class="brand-dot">.</span></a><nav aria-label="Presentation chapters"><a href="#intro" data-route="intro"><b>01</b><span>Our topic</span></a><a href="#story" data-route="story"><b>02</b><span>Story & song cuts</span></a><a href="#songs" data-route="songs"><b>03</b><span>Full playlist</span></a><a href="#demography" data-route="demography"><b>04</b><span>Closing data</span></a></nav><button class="present-button" data-action="present" aria-label="Toggle presentation view" aria-pressed="false"><span aria-hidden="true">⛶</span> Present</button></header>
+<main id="main" tabindex="-1"></main>
+<footer class="footer"><span>A DEMO 1 PRESENTATION</span><span>Our lives, in songs.</span><span id="footer-count"></span><a href="https://opengameart.org/content/32-pixel-human-sprites" target="_blank" rel="noopener noreferrer">Character sprites by cyanowl · CC0</a></footer>
+<div class="player" id="player" hidden aria-label="Music player"><button class="pixel-disc" data-action="player-track" aria-label="Open playing song">♫</button><div class="player-name"><small id="player-context">OUR SOUNDTRACK</small><strong id="player-title"></strong><span id="player-artist"></span></div><button class="round-control" data-action="previous-track" aria-label="Previous song">‹</button><button class="play-control" data-action="toggle-audio" aria-label="Play" id="global-play">▶</button><button class="round-control" data-action="next-track" aria-label="Next song">›</button><span class="time" id="time-now">0:00</span><input type="range" id="audio-seek" aria-label="Seek in recording" min="0" max="1000" value="0"><span class="time" id="time-total">0:00</span><button class="round-control" data-action="mute" id="mute-button" aria-label="Mute" aria-pressed="false">♪</button><input type="range" id="audio-volume" aria-label="Volume" min="0" max="1" step=".01" value=".7"><button class="round-control" data-action="close-player" aria-label="Close player">×</button></div>
+<audio id="audio" preload="metadata"></audio>
+<audio id="story-music" src="assets/audio/story-ambience.mp3" loop preload="none" aria-label="Story instrumental"></audio>
+<dialog id="dialog" aria-labelledby="dialog-title"><div class="dialog-header"><h2 id="dialog-title"></h2><button class="round-control" data-action="close-dialog" aria-label="Close dialog">×</button></div><div id="dialog-content"></div></dialog>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body></html>
